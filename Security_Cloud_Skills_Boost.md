@@ -1,4 +1,3 @@
-# AI-102
 ## Managing Security in Google Cloud
 - Day 1, [Managing Security in Google Cloud](https://www.cloudskillsboost.google/course_templates/382). This has the labs throughout and downloadable lecture notes at the bottom.
 ## Security Best Practices in Google Cloud
